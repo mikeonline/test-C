@@ -3,7 +3,7 @@
     public class TestClass
     {
         int count;
-        public int Count;
+        public long Count3;
 
     }
 }
